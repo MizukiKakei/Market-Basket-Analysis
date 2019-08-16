@@ -1,11 +1,4 @@
 # Classification-Regression-MarketBasketAnalysis-3
-##MarketBasketAnalysis
+## MarketBasketAnalysis
 
-### Objects and goals
-This project is about finding the patterns of which products were bought together by customers. 
-
-### Data set
-9835 transactions
-
-### Methods of analysis
-Apriori　
+Data with 9834 transactions was given. We analysed customer buying patterns and the association among the products using apriori algorithm.. 
